@@ -1,0 +1,1 @@
+java -jar /Users/meghanabheemanadhuni/.m2/repository/org/evosuite/evosuite-master/1.0.6/evosuite-master-1.0.6.jar -class com.example.calculator.Calculator -projectCP target/classes
